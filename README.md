@@ -12,7 +12,7 @@ Weather App is a clean and responsive single-page web application that provides 
 
 ## 🔗 Links
 
-- **Live Demo**: [Weather App](https://mundheanil84.github.io/Weather-App)  
+- **Live Demo**: [Weather App](https://weather-app-one-zeta-27.vercel.app/)  
 - **Repository**: [github.com/Mundheanil84/Weather-App](https://github.com/Mundheanil84/Weather-App)  
 - **Documentation (Project PDF / details)**: *(You can add link here later)*  
 
