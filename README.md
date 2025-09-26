@@ -1,6 +1,4 @@
-Here’s a polished **README.md** file tailored for your project at [Mundheanil84/Weather-App](https://github.com/Mundheanil84/Weather-App). You can copy this into your repository:
 
-````markdown
 # ⛅ Weather App
 
 Weather App is a clean and responsive single-page web application that provides real-time weather data and forecasts for cities anywhere in the world. Built with React + Vite and integrated with OpenWeatherMap API, it balances performance, usability, and aesthetics.
